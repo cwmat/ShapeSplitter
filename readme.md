@@ -1,4 +1,4 @@
-#ShapeSPlitter
+#ShapeSplitter
 POC - Chaz Mateer chaz.mateer@gmail.com
 
 Python Script that requires the arcpy module and the advanced license.  Created to split and input polygon's geometry by one or many input polygons.  Splits the dataset whiel maintaining original attributes and removes duplicate geometries.
